@@ -1,5 +1,5 @@
 <script>
-  // You can add routing/navigation here if needed.
+  
 </script>
 
 <section class="relative bg-cover bg-center bg-no-repeat min-h-[80vh] flex items-center justify-start text-white"

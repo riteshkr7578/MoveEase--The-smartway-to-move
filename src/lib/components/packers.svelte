@@ -41,14 +41,14 @@
         <input
           type="text"
           bind:value={from}
-          placeholder="From (City / Pin Code)"
+          placeholder="From City"
           use:placesAutocomplete={{ onPlaceSelected: setFromPlace }}
           class="border border-gray-300 rounded-md px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-indigo-500"
         />
         <input
           type="text"
           bind:value={to}
-          placeholder="To (City / Pin Code)"
+          placeholder="To City"
           use:placesAutocomplete={{ onPlaceSelected: setToPlace }}
           class="border border-gray-300 rounded-md px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-indigo-500"
         />
