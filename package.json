@@ -23,6 +23,7 @@
 		"@iconify/svelte": "^4.2.0",
 		"@sveltejs/adapter-vercel": "^5.7.0",
 		"@tailwindcss/vite": "^4.0.17",
+		"firebase": "^11.6.1",
 		"lucide-svelte": "^0.488.0",
 		"tailwindcss": "^4.0.17"
 	}
