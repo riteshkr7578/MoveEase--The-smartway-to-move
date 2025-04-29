@@ -29,4 +29,4 @@ onAuthStateChanged(auth, (firebaseUser) => {
 // Logout function
 export const logout = async () => {
   await signOut(auth);
-};
+}
